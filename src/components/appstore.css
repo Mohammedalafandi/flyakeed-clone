@@ -1,0 +1,35 @@
+
+.section3 {
+    display: flex;
+    margin-top: 50px;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    background-color: #e7f0fe;
+    margin-top:250px;
+    color: #fff;
+    margin-bottom: 50px;
+    
+}
+
+.p-image{
+    margin-top: -221px;
+    margin-left: 150px;
+}
+.store-text{
+    margin-right: 500px;
+    
+    
+}
+.text{
+    margin-left: 80px ;
+}
+.store-image{
+    margin-left: 80px;
+    
+}
+.img {
+    width: 320px;
+    height: 94px;
+    
+}

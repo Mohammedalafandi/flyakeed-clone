@@ -1,0 +1,37 @@
+.footer{
+   display: flex;
+   margin-top: auto;
+   margin-left: 70px;
+   margin-right: 70px;
+  justify-content: space-evenly;
+ font-size: 15px;
+ color:#1A1F71;
+    
+}
+
+.fly-img{
+    
+    width: 138px;
+   
+}
+.list{
+    font-size: 12px;
+    list-style: none;
+}
+.h4{
+    font-size: 14px;
+}
+.img1{
+  width: 160px;
+  height: 40px;
+  cursor: pointer;
+}
+.call{
+    font-size: 14px;
+    color:#1a1f71;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+    
+
+}

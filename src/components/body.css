@@ -1,0 +1,16 @@
+.section2 {
+    display: flex;
+    margin-top: 50px;
+    align-items: center;
+    margin-left: 5rem;
+    justify-content: center;
+    font-size: 15px;
+  
+
+}
+.phone-img {
+    display: flex;
+    height: 450px;
+
+}
+
