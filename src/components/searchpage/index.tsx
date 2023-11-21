@@ -1,13 +1,27 @@
+import { Link } from 'react-router-dom'
 import './searchpage.css'
+import IconButton from '@mui/material/IconButton';
+import ArrowBackIcon from '@mui/icons-material/ArrowBack';
+
+
+
+
+
+
 function SearchFlight(){
     return(
         
-       
+        
        <section  className='search'>
         <div>
           
         <nav className="nav2">
-          <button className='back'></button>
+          <Link to="/">
+          <IconButton  aria-label="delete" size="small">
+         <ArrowBackIcon fontSize="large" />
+         </IconButton>
+          </Link>
+          
         <div className="btn1">
           <button className="change" >Change Search</button>
           

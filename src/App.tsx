@@ -2,7 +2,7 @@ import './App.css'
 import Navbar from './components/Navbar'
 import { BrowserRouter,Route,Routes } from 'react-router-dom'
 import Footer from './components/footer'
-import LandingPage from './components/Landingpage'
+import LandingPage from './components/landingPage'
 import SearchFlight from './components/searchpage'
 function App() {
  
