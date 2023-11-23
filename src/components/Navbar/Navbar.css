@@ -1,7 +1,6 @@
 .header {
   height: 90px;
   display: flex;
-  
   align-items: center;
   background-color: #1A1F71;
   position: sticky;
@@ -13,15 +12,9 @@
   width:185px;
   object-fit: contain;
   margin-top: 18px;
-  margin-left: 60px;
   margin-bottom: 18px;
+}
 
-}
-.btn{
- 
-  margin-left: 50px;
-  margin-right: 80px;
-}
 
 .corporate{
   background-color: #1a1f71;
@@ -44,5 +37,6 @@
   text-align: center;
   border: none;
   font-size: 13px;
+  
 
 }

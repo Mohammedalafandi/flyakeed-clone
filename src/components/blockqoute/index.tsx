@@ -17,9 +17,7 @@ function BlockQoute() {
             travel.{" "}
           </p>
 
-          <div className="test">
-            <img src={sp} alt="" />
-          </div>
+         
         </div>
 
         <div className="clint2">
@@ -32,7 +30,7 @@ function BlockQoute() {
           </p>
         </div>
         <div className="clint3">
-          <img className="qouteimg" src={blockqoute} alt=""></img>
+        <img className="qouteimg" src={blockqoute} alt=""></img>
           <p className="px-2">
             As a company, one of the important features we want is having a
             dashboard to monitor all flights and seeing their costs and times

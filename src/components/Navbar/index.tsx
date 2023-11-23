@@ -6,17 +6,17 @@ const Navbar = () => {
   return (
     <>
       <nav className="header">
-        <Stack direction="row" justifyContent='space-between'   width="100%">
-          <Box>
+        <Stack direction="row" justifyContent='space-evenly'  width="100%">
+          <Box marginRight={"180px"}>
             <img className="header__logo" src={FaLogo} alt="" />
           </Box>
 
-          <Stack direction="row" color="white" gap={2} alignSelf="center">
+          <Stack direction="row"  color="white" gap={2} alignSelf="center">
             <Box>SAR</Box>
             <Box>العربية</Box>
           </Stack>
 
-          <Box display="inline-flex" alignSelf="center">
+          <Box display="inline-flex" marginLeft={"180px"}  alignSelf="center">
             <button className="corporate">Corporate</button>
             <button className="login">Log In</button>
           </Box>
