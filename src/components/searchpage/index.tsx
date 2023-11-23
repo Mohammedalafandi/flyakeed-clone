@@ -6,7 +6,6 @@ import { useSearchParams } from "react-router-dom";
 import { useEffect } from "react";
 import { searchFlights } from "./searchFlights";
 import {Box} from '@mui/material'
-import { Stack } from "react-bootstrap";
 
 function SearchFlight() {
   const [searchParams] = useSearchParams();

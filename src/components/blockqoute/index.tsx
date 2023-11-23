@@ -1,6 +1,5 @@
 import blockqoute from "../images/blockquote.png";
 import "./blockqoute.css";
-import sp from "../images/testimoni-sparator.png";
 function BlockQoute() {
   return (
     <>
